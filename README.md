@@ -1,7 +1,7 @@
-# Portfolio_Projects
+# Portfolio_Projects Repository
 
-Portfolio Project Repository
+Portfolio Projects
 
-This Repository will hold all of the code and queries from the Portfolio Projects.
+This Repository holds all of the code and queries from the Portfolio Projects.
 
 finding insights.
